@@ -41,6 +41,7 @@ article{
     grid-template-columns: 1fr 1fr;
     grid-area: ar;
     border: 1px solid black;
+    width: 900px;
 }
 
 article img{
@@ -50,6 +51,7 @@ article img{
 footer{
     grid-area: f;
     border: 1px solid black;
+    margin: auto;
 }
 
 
